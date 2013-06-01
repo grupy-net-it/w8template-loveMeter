@@ -1,4 +1,4 @@
-﻿<Common:LayoutAwarePage xmlns:Gauges="using:Syncfusion.UI.Xaml.Gauges" 
+﻿<Common:LayoutAwarePage
     x:Class="LoveMeter.MainPage"
     IsTabStop="false"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
@@ -7,7 +7,6 @@
     xmlns:Converters="using:LoveMeter.Converters"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:syncfusion="using:Syncfusion.UI.Xaml.Gauges"
     xmlns:View="using:StyleMVVM.View" xmlns:Common="using:LoveMeter.Common" View:ViewModel.Name="MainPageViewModel"
     mc:Ignorable="d">
 
